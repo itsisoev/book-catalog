@@ -1,4 +1,8 @@
 package org.example.model;
 
-public class Genre {
+public enum Genre {
+    FICTION,
+    SCIENCE,
+    HISTORY,
+    FANTASY
 }
