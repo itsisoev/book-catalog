@@ -45,7 +45,7 @@ SQLite database keeps data between sessions
 ## Project Structure (MVC)
 
 ```
-src/main/java/org.example/yourname/
+src/main/java/org.example/
 │
 ├── model/              # Data models
 │   ├── Book.java       # Book class with fields and accessors
